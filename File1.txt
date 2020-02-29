@@ -7,4 +7,6 @@ This time i will insert my third change but need to remove second change
 I want to create a branch
 My First Change on branch
 
+This  is my fourth change on master branch
+
 Thank You
